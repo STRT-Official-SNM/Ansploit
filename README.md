@@ -3,9 +3,13 @@
 
 Ansploit makes exploiting android much easier. It automates almost everything. 
 
-Don't know the private IP of victim? No problem, ansploit can take care of bruteforcing and finding the IP by itself.
-
+Requirements : 
+             • Scrcpy
+             • Metasploit Framework
+             • Python 3.x
+             • A phone running android to play with.
+             
 # Important note : 
 
-Users are not adviced to run the `main.py` file.
+No need to run the `main.py` file.
 Use only the `connector.py` file for now.
